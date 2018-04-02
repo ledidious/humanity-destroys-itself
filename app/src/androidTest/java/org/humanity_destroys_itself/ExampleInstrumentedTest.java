@@ -1,4 +1,4 @@
-package ledidious.org.humanity_destroys_itself;
+package org.humanity_destroys_itself;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals( "ledidious.org.humanity_destroys_itself", appContext.getPackageName() );
+        assertEquals( "org.humanity_destroys_itself", appContext.getPackageName() );
     }
 }

@@ -1,4 +1,4 @@
-package ledidious.org.humanity_destroys_itself;
+package org.humanity_destroys_itself;
 
 import org.junit.Test;
 
